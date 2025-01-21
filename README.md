@@ -80,7 +80,7 @@ This project is a basic front-end application built using **React.js** and **CSS
 
 ### Deployment
 
-The application is deployed on **Vercel**. Access the live demo [here](#).
+The application is deployed on **Vercel**. Access the live demo [https://ecommerce-product-list-nine.vercel.app/](#).
 
 ## Notes
 
