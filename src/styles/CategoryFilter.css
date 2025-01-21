@@ -1,0 +1,6 @@
+@media (max-width: 600px) {
+  .border {
+    font-size: 0.9rem;
+    padding: 8px 16px;
+  }
+}
