@@ -63,7 +63,7 @@ This project is a basic front-end application built using **React.js** and **CSS
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Gaurav2k50/ecommerce-product-list.git>
    ```
 
 2. **Install Dependencies**
